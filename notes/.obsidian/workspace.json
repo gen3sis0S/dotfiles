@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "file": "hackthebox/es_mx/starting-point/tier-2/archetype.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "file": "hackthebox/es_mx/starting-point/tier-2/archetype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "file": "hackthebox/es_mx/starting-point/tier-2/archetype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hackthebox/machines/windows-easy/es_mx/access.md"
+                "file": "hackthebox/es_mx/starting-point/tier-2/archetype.md"
               }
             }
           }
@@ -148,40 +148,41 @@
   },
   "active": "29c73847bcc3e963",
   "lastOpenFiles": [
-    "hackthebox/machines/linux-easy/es_mx/boardlight.md",
-    "hackthebox/machines/windows-easy/es_mx",
-    "hackthebox/machines/windows-easy/en_us",
-    "hackthebox/machines/windows-easy/es_mx/active.md",
-    "hackthebox/machines/linux-easy/es_mx",
-    "hackthebox/machines/linux-easy/en_us",
-    "hackthebox/machines/windows-easy/es_mx/access.md",
-    "hackthebox/machines/linux-easy/es_mx/help.md",
-    "hackthebox/machines/linux-easy/es_mx/networked.md",
-    "hackthebox/machines/windows-easy/es_mx/forest.md",
-    "hackthebox/machines/windows-easy/networked.md",
-    "hackthebox/machines/windows-easy/es_mx/servmon.md",
-    "hackthebox/machines/windows-easy/es_mx/sauna.md",
-    "hackthebox/machines/windows-easy/es_mx/return.md",
-    "hackthebox/machines/linux-easy/es_mx/pandora.md",
-    "hackthebox/machines/windows-easy/es_mx/timelapse.md",
-    "hackthebox/machines/windows-easy/es_mx/support.md",
-    "hackthebox/machines/linux-easy/es_mx/soccer.md",
-    "hackthebox/machines/linux-easy/es_mx/busqueda.md",
-    "hackthebox/machines/linux-easy/es_mx/broker.md",
-    "hackthebox/machines/linux-easy/es_mx/sau.md",
-    "hackthebox/machines/linux-easy/es_mx/keeper.md",
-    "hackthebox/machines/linux-easy/es_mx/cozyhosting.md",
-    "hackthebox/machines/linux-easy/es_mx/usage.md",
-    "hackthebox/machines/windows-easy/es_mx/mailing.md",
-    "hackthebox/machines/windows-easy/es_mx/jerry.md",
-    "hackthebox/machines/linux-easy/es_mx/nibbles.md",
-    "hackthebox/machines/windows-easy",
-    "hackthebox/starting-point/tier-2/es_mx/base.md",
-    "hackthebox/machines/linux-easy",
-    "hackthebox/starting-point/tier-2/es_mx/markup.md",
-    "hackthebox/starting-point/tier-2/en_us",
-    "hackthebox/starting-point/tier-2/es_mx",
-    "hackthebox/starting-point/tier-1/en_us",
-    "hackthebox/starting-point/tier-1/es_mx"
+    "hackthebox/es_mx/starting-point/tier-1/appointment.md",
+    "hackthebox/es_mx/starting-point/tier-0/dancing.md",
+    "hackthebox/es_mx/starting-point/tier-0/synced.md",
+    "hackthebox/es_mx/machines/windows-easy/access.md",
+    "hackthebox/es_mx/machines/linux-easy/boardlight.md",
+    "linux/es_mx/display-manager.md",
+    "hackthebox/es_mx",
+    "hackthebox/en_us",
+    "cybersecurity/es_mx",
+    "cybersecurity/en_us",
+    "networking/es_mx/protocols/domain-name-system-DNS.md",
+    "linux/es_mx",
+    "linux/en_us",
+    "tools/es_mx/burp-suite.md",
+    "networking/es_mx",
+    "networking/en_us",
+    "tools/es_mx",
+    "tools/en_us",
+    "cybersecurity/es_mx/pentesting-process.md",
+    "networking/es_mx/virtual-private-network-VPN.md",
+    "linux/es_mx/display-server.md",
+    "linux/es_mx/windows-manager.md",
+    "networking/es_mx/protocols/simple-network-management-protocol-SNMP.md",
+    "tools/es_mx/wireshark.md",
+    "tools/es_mx/tcpdump.md",
+    "tools/es_mx/network-mapper-nmap.md",
+    "tools/es_mx/netcat.md",
+    "tools/es_mx/metasploit.md",
+    "tools/es_mx/medusa.md",
+    "tools/es_mx/john-the-ripper.md",
+    "tools/es_mx/gobuster.md",
+    "networking/es_mx/protocols/teletype-network-Telnet.md",
+    "networking/es_mx/protocols/simple-mail-transfer-protocol-SMTP.md",
+    "networking/es_mx/protocols/server-message-block-SMB.md",
+    "networking/es_mx/protocols/post-office-protocol-v3-POP3.md",
+    "networking/es_mx/protocols/lightweight-directory-access-protocol-LDAP.md"
   ]
 }
