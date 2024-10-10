@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "d855b9dea90b93cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af70b51efb1714b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4c166e392fb0f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "072c13102b166854",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed93331631c8b020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c73847bcc3e963",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59058a3f9b2f1a7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b728fbb5e7732a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "374a8d971042af55",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5915ad18bc8753f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0b91de0918fb79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f9ae09331d642bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hackthebox/machines/windows-easy/es_mx/access.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e4cb720847d8b61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35b4ff462ab42934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hackthebox/machines/windows-easy/es_mx/access.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29c73847bcc3e963",
+  "lastOpenFiles": [
+    "hackthebox/machines/linux-easy/es_mx/boardlight.md",
+    "hackthebox/machines/windows-easy/es_mx",
+    "hackthebox/machines/windows-easy/en_us",
+    "hackthebox/machines/windows-easy/es_mx/active.md",
+    "hackthebox/machines/linux-easy/es_mx",
+    "hackthebox/machines/linux-easy/en_us",
+    "hackthebox/machines/windows-easy/es_mx/access.md",
+    "hackthebox/machines/linux-easy/es_mx/help.md",
+    "hackthebox/machines/linux-easy/es_mx/networked.md",
+    "hackthebox/machines/windows-easy/es_mx/forest.md",
+    "hackthebox/machines/windows-easy/networked.md",
+    "hackthebox/machines/windows-easy/es_mx/servmon.md",
+    "hackthebox/machines/windows-easy/es_mx/sauna.md",
+    "hackthebox/machines/windows-easy/es_mx/return.md",
+    "hackthebox/machines/linux-easy/es_mx/pandora.md",
+    "hackthebox/machines/windows-easy/es_mx/timelapse.md",
+    "hackthebox/machines/windows-easy/es_mx/support.md",
+    "hackthebox/machines/linux-easy/es_mx/soccer.md",
+    "hackthebox/machines/linux-easy/es_mx/busqueda.md",
+    "hackthebox/machines/linux-easy/es_mx/broker.md",
+    "hackthebox/machines/linux-easy/es_mx/sau.md",
+    "hackthebox/machines/linux-easy/es_mx/keeper.md",
+    "hackthebox/machines/linux-easy/es_mx/cozyhosting.md",
+    "hackthebox/machines/linux-easy/es_mx/usage.md",
+    "hackthebox/machines/windows-easy/es_mx/mailing.md",
+    "hackthebox/machines/windows-easy/es_mx/jerry.md",
+    "hackthebox/machines/linux-easy/es_mx/nibbles.md",
+    "hackthebox/machines/windows-easy",
+    "hackthebox/starting-point/tier-2/es_mx/base.md",
+    "hackthebox/machines/linux-easy",
+    "hackthebox/starting-point/tier-2/es_mx/markup.md",
+    "hackthebox/starting-point/tier-2/en_us",
+    "hackthebox/starting-point/tier-2/es_mx",
+    "hackthebox/starting-point/tier-1/en_us",
+    "hackthebox/starting-point/tier-1/es_mx"
+  ]
+}
